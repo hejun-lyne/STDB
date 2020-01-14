@@ -1,0 +1,2 @@
+# STDB
+smart object storage
